@@ -6,11 +6,11 @@ Backend: Node.js, express.js, express-validators, apiLimiters.
 The server part provides work with data, their collection, analysis and structuring. Due to the last mentioned technologies it also has limitations up to 50 requests per minute from the same IP, and protection from different types of data that can be sent to the server.
 
 Backend run
-cd serverside
-npm install
-node server.js
+"cd serverside ;
+npm install ;
+node server.js"
 
 Frontend run
-cd client/my-app
-npm install
-npm start
+"cd client/my-app ; 
+npm install ; 
+npm start"
