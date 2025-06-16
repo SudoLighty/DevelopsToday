@@ -11,6 +11,6 @@ The server part provides work with data, their collection, analysis and structur
 ```node server.js```
 
 **Frontend run**
-```"cd client/my-app```
+```cd client/my-app```
 ```npm install```
 ```npm start```
